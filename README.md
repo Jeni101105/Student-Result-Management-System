@@ -1,8 +1,8 @@
-Student Result Management System
+#Student Result Management System
 
 A console-based Student Result Management System developed using Python.
 
-Features
+##Features
 Add Student Records
 View Student Records
 Search Student by Name
